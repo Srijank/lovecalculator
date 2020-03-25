@@ -1,0 +1,29 @@
+.all{
+background-color: deeppink;
+margin: auto;}
+.main{
+ text-align: center;
+}
+.heading{
+font-size: 50px;
+    padding-top: 100px;
+    padding-bottom: 20px;
+    
+}
+.hi{
+    background-color:darkcyan;
+}
+.name{
+    text-align: center;
+    padding-top: 100px;
+    background-color: aliceblue;
+    padding-bottom: 100px;
+}
+@media (max-width:900px){
+  .heading{
+font-size: 40px;
+   padding-top: 50px;   
+    
+}  
+    
+}
